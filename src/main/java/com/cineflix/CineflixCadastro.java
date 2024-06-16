@@ -33,7 +33,7 @@ public class CineflixCadastro extends JFrame {
         JPanel cadastroPanel = new JPanel(new GridLayout(5, 2));
         JLabel nomeLabel = new JLabel("Nome:");
         nomeField = new JTextField();
-        JLabel dataLancamentoLabel = new JLabel("Data de Lançamento:");
+        JLabel dataLancamentoLabel = new JLabel("Data de Lançamento:git ");
         dataLancamentoField = new JTextField();
         JLabel categoriaLabel = new JLabel("Categoria:");
         categoriaField = new JTextField();
