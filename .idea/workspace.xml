@@ -36,7 +36,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/catspajamas/IdeaProjects/Cineflix3",
+    "last_opened_file_path": "/home/catspajamas/IdeaProjects/Cineflix2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,6 +85,7 @@
       <workItem from="1717779172908" duration="1071000" />
       <workItem from="1718135236465" duration="526000" />
       <workItem from="1718275586324" duration="24000" />
+      <workItem from="1718547444919" duration="805000" />
     </task>
     <servers />
   </component>
