@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.cineflix","l":"CineflixCadastro"},{"p":"com.cineflix","l":"DatabaseConnection"},{"p":"com.cineflix","l":"Main"}];updateSearchResults();
